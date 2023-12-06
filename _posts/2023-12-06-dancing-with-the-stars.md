@@ -1,5 +1,5 @@
 ---
-title: "dancing-with-the-stars"
+title: Dancing with the Stars
 date: 2023-12-06
 ---
 
